@@ -9,3 +9,4 @@
 - [x] Install UI Kitten
 - [x] Install React Navigation
 - [ ] Setup basic translation function/procedure
+- [ ] Style text forms and selections (use ui kitten lists for language select)
