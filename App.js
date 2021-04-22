@@ -5,7 +5,6 @@ import ThemeProvider from './src/theme/ThemeProvider';
 import * as eva from '@eva-design/eva';
 import { ApplicationProvider } from '@ui-kitten/components';
 
-
 export default function App() {
   return (
     <ApplicationProvider {...eva} theme={eva.light}>
@@ -17,4 +16,3 @@ export default function App() {
     </ApplicationProvider>
   );
 }
-
