@@ -13,5 +13,4 @@
 - [ ] Setup OCR
 
 # Demo:  
-<iframe width="360" height="767" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/572t3t"></iframe></div><p><a href="https://imgflip.com/gif/572t3t">via Imgflip</a></p></div>
 <a href="https://imgflip.com/gif/572t3t"><img src="https://i.imgflip.com/572t3t.gif" title="made at imgflip.com"/></a>
